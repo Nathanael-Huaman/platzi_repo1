@@ -1,5 +1,6 @@
 h1 {
     color: red;
+    text-align: center;
 }
 
 input {
@@ -8,4 +9,17 @@ input {
 
 body {
     background-color: aquamarine;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.parrafo1 {
+    color: brown;
+    font-family: Arial;
+    margin: 20px;
+    padding: 2px;
+    text-align: center;
 }
